@@ -24,7 +24,7 @@
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ex2-C2-BVF">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" verticalCompressionResistancePriority="250" translatesAutoresizingMaskIntoConstraints="NO" id="ex2-C2-BVF">
                                 <rect key="frame" x="16" y="58" width="288" height="35"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="35" id="tsZ-oH-H1Q"/>
