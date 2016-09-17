@@ -1,3 +1,3 @@
 # ScaleTest-iOS
 
-![alt tag](ScaleTest/img/screenshot.png)
+![screen](ScaleTest/img/screenshot.png)
